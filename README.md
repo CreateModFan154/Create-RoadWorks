@@ -4,6 +4,18 @@ A Create mod inspired by real-world infrastructure, construction, and hi-rail sy
 
 ---
 
+## ⚠️ Note to Petty Jerks
+
+If you intentionally mess with this project or me — over dumb drama, personal grudges, or to satisfy some weird ego trip — just know: I **don’t forget**.
+
+I won’t break rules.  
+I won’t break laws.  
+But I *will* make sure your stuff flops just as hard as you tried to make mine.
+
+– with ✨spiteful love✨, [your name]
+
+---
+
 ## 🛠️ About the Mod
 
 **Create: Roadworks** aims to bring real-world construction and logistics to Minecraft using the Create mod’s mechanical style. Inspired by road construction, hi-rail trucks, and infrastructure systems, Roadworks focuses on practical, immersive gameplay—everything from laying roads to deploying rail-ready vehicles.
