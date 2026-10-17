@@ -4,6 +4,10 @@ A Create mod inspired by real-world infrastructure, construction, and hi-rail sy
 
 ---
 
+# THIS MOD IS ON INDEFINITE HOLD
+
+---
+
 ## ⚠️ Note to Petty Jerks
 
 If you intentionally mess with this project or me — over dumb drama, personal grudges, or to satisfy some weird ego trip — just know: I **don’t forget**.
